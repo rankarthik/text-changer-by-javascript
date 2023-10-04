@@ -1,0 +1,29 @@
+body{
+    box-sizing: border-box;
+    font-size: 2em;
+    background-color: lightcyan;
+   
+}
+#main{
+    position: relative;
+    right: -40%;
+    bottom: -250px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+
+}
+.tbox{
+    border: none;
+    width: 300px;
+    height: 40px;
+    font-size: 0.7em;
+    text-align: center;
+}
+.label1{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+
